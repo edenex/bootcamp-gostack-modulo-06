@@ -21,7 +21,7 @@ import {
 
 export default class User extends Component {
   static navigationOptions = ({ navigation }) => ({
-    title: navigation.getParam('user').name,
+    title: navigation.getParam('user').login,
   });
 
   static propTypes = {
