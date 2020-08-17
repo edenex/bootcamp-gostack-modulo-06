@@ -1,8 +1,5 @@
 <h1 align="center">
-# bootcamp-gostack-modulo-06
-
 Desafio 6: Primeiro projeto com React-Native
-
 </h1>
 
 ## :information_source: Sobre o projeto
@@ -11,15 +8,21 @@ App mobile para adicionar usuários do Github via API e poder visualizar os proj
 
 O projeto apresenta basicamente 3 telas (screens):
 
-### Main: Nesta tela é possível procurar um usuário no Github, sempre pelo login.
+### Main:
+
+#### Nesta tela é possível procurar um usuário no Github, sempre pelo login.
 
 <img src="./src/assets/images/img-screen-main.png" alt="Página principal (Main) do projeto">
 
-### User: Nesta tela é possível visualizar os projetos favoritados (starred) de usuário do Github, após clicar no botão "Ver Perfil" da tela Main.
+### User:
+
+#### Nesta tela é possível visualizar os projetos favoritados (starred) de usuário do Github, após clicar no botão "Ver Perfil" da tela Main.
 
 <img src="./src/assets/images/img-screen-user.png" alt="Página user do projeto">
 
-### Repository: Nesta tela é possível visualizar os detalhes do projeto do usuário.
+### Repository:
+
+#### Nesta tela é possível visualizar os detalhes do projeto do usuário.
 
 <img src="./src/assets/images/img-screen-repository.png" alt="Página repository do projeto">
 
